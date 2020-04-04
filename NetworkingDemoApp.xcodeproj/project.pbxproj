@@ -13,6 +13,7 @@
 		D9DE47D82438FE550086DC79 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9DE47D72438FE550086DC79 /* Assets.xcassets */; };
 		D9DE47DB2438FE550086DC79 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D9DE47DA2438FE550086DC79 /* Preview Assets.xcassets */; };
 		D9DE47DE2438FE550086DC79 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9DE47DC2438FE550086DC79 /* LaunchScreen.storyboard */; };
+		D9DE47E6243904690086DC79 /* ResponseEntity.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9DE47E5243904690086DC79 /* ResponseEntity.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D9DE47DA2438FE550086DC79 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D9DE47DD2438FE550086DC79 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D9DE47DF2438FE550086DC79 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D9DE47E5243904690086DC79 /* ResponseEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResponseEntity.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D9DE47DC2438FE550086DC79 /* LaunchScreen.storyboard */,
 				D9DE47DF2438FE550086DC79 /* Info.plist */,
 				D9DE47D92438FE550086DC79 /* Preview Content */,
+				D9DE47E5243904690086DC79 /* ResponseEntity.swift */,
 			);
 			path = NetworkingDemoApp;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				D9DE47D22438FE530086DC79 /* AppDelegate.swift in Sources */,
 				D9DE47D42438FE530086DC79 /* SceneDelegate.swift in Sources */,
 				D9DE47D62438FE530086DC79 /* ContentView.swift in Sources */,
+				D9DE47E6243904690086DC79 /* ResponseEntity.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
